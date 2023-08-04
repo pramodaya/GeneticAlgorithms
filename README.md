@@ -138,3 +138,4 @@ And that’s it! You now have a basic flocking simulation implemented using Pyth
 
 
 Medium Article Link - https://medium.com/@pramodayajayalath/flocking-algorithm-simulating-collective-behavior-in-nature-inspired-systems-dc6d7fb884cc
+
