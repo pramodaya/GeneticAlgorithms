@@ -130,12 +130,12 @@ def main():
 if __name__ == "__main__":
     main()
 
-    ```
-
+```
 Run the simulation: Save your Python script and run it. A window will pop up displaying the flocking simulation with entities moving around and exhibiting flocking behavior.
 
 And that’s it! You now have a basic flocking simulation implemented using Python and Pygame. You can further refine and customize the simulation by adjusting the flocking parameters and adding more behaviors.
 
 
 Medium Article Link - https://medium.com/@pramodayajayalath/flocking-algorithm-simulating-collective-behavior-in-nature-inspired-systems-dc6d7fb884cc
+
 
